@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+Fabio Hellmann:
+  name        : "Fabio Hellmann"
+  uri         : "https://fhellmann.github.io"
+  email       : "hellmann.fabio@gmail.com"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  avatar      : "profile.png"
+#  twitter     : "name"
+#  google_plus : "Name"
+#
+#Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"

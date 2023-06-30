@@ -1,0 +1,15 @@
+---
+title: "Deformable Dilated Faster R-CNN for Universal Lesion Detection in CT Images"
+collection: publications
+permalink: /publication/2021-11-01-Deformable-Dilated-Faster-R-CNN-for-Universal-Lesion-Detection-in-CT-Images
+excerpt: 'This research demonstrates the suitability of dilation modifications and the possibility of enhancing the performance using a modulated deformable positive-sensitive region of interest pooling layer for universal lesion detectors.'
+date: 2009-10-01
+venue: 'IEEE Engineering in Medicine and Biology Society'
+paperurl: 'http://fhellmann.github.io/files/paper-Deformable_Dilated_Faster_R-CNN_for_Universal_Lesion_Detection_in_CT_Images.pdf'
+citation: 'Hellmann, Fabio et al. “Deformable Dilated Faster R-CNN for Universal Lesion Detection in CT Images.” Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference vol. 2021 (2021): 2896-2902. doi:10.1109/EMBC46164.2021.9631021'
+---
+Cancer is a major public health issue and takes the second-highest toll of deaths caused by non-communicable diseases worldwide. Automatically detecting lesions at an early stage is essential to increase the chance of a cure. This study proposes a novel dilated Faster R-CNN with modulated deformable convolution and modulated deformable positive-sensitive region of interest pooling to detect lesions in computer tomography images. A pre-trained VGG-16 is transferred as the backbone of Faster R-CNN, followed by a region proposal network and a region of interest pooling layer to achieve lesion detection. The modulated deformable convolutional layers are employed to learn deformable convolutional filters, while the modulated deformable positive-sensitive region of interest pooling provides an enhanced feature extraction on the feature maps. Moreover, dilated convolutions are combined with the modulated deformable convolutions to fine-tune the VGG-16 model with multi-scale receptive fields. In the experiments evaluated on the DeepLesion dataset, the modulated deformable positive-sensitive region of interest pooling model achieves the highest sensitivity score of 58.8 % on average with dilation of [4, 4, 4] and outperforms state-of-the-art models in the range of [2], [8] average false positives per image. This research demonstrates the suitability of dilation modifications and the possibility of enhancing the performance using a modulated deformable positive-sensitive region of interest pooling layer for universal lesion detectors.
+
+[Download paper here](http://fhellmann.github.io/files/paper-Deformable_Dilated_Faster_R-CNN_for_Universal_Lesion_Detection_in_CT_Images.pdf)
+
+Recommended citation: Hellmann, Fabio et al. “Deformable Dilated Faster R-CNN for Universal Lesion Detection in CT Images.” Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference vol. 2021 (2021): 2896-2902. doi:10.1109/EMBC46164.2021.9631021

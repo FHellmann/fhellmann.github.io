@@ -11,30 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Applied Sciences Munich, 2017
+* M.S. in Computer Science, University of Augsburg, 2020
+* Ph.D. in Computer Science, University of Augsburg, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2009 - Jul. 2012: IT Specialist for Application Development (Vocational Training)
+  * Retarus GmbH, Munich, Germany
+  * Duties included: Development of Java backend applications to improve the workflow by optimization and automation of departments.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2013 - Mar. 2017: Integrated Degree Program
+  * Dionex Softron GmbH a part of Thermo Fisher Scientific, Germering, Germany
+  * Duties included: Planned, designed, and developed an internal web platform for analysing different project data from external services with C# .NET.
+
+* Oct. 2013 - Dec. 2017: Freelancer
+  * Fabio Hellmann
+  * Duties included: Planned, designed, and developed Java and Android applications.
+
+* Apr. 2017 - Jul. 2018: Working Student
+  * Check24 Finanzservice GmbH, Munich, Germany
+  * Duties included: Design software architecture for a microservice structure and full-stack development of Java applications in an agile software development environment.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German (native)
+  * English (professional)
+* Hard
+  * Programming Languages
+    * Python
+    * Java
+    * C#
+    * C++
+    * Scala
+    * GO
+  * Frameworks
+    * PyTorch
+    * Tensorflow
+  * Tools
+    * Git
+  * Database
+    * SQL
+* Soft
+  * Self-Discipline
+  * Motivation
+  * Personal Responsibility
+  * Teamwork
+  * Emotional Intelligence
+  * Communication Skills
+  * Criticism
+  * Presentation Techniques
+  * Analytical Skills
+  * Problem Solving Ability
 
 Publications
 ======
@@ -53,7 +82,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
