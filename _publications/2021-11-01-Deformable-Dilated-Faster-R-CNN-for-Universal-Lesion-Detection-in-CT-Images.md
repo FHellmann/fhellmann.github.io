@@ -3,7 +3,7 @@ title: "Deformable Dilated Faster R-CNN for Universal Lesion Detection in CT Ima
 collection: publications
 permalink: /publication/2021-11-01-Deformable-Dilated-Faster-R-CNN-for-Universal-Lesion-Detection-in-CT-Images
 excerpt: 'This research demonstrates the suitability of dilation modifications and the possibility of enhancing the performance using a modulated deformable positive-sensitive region of interest pooling layer for universal lesion detectors.'
-date: 2009-10-01
+date: 2021-11-01
 venue: 'IEEE Engineering in Medicine and Biology Society'
 paperurl: 'http://fhellmann.github.io/files/paper-Deformable_Dilated_Faster_R-CNN_for_Universal_Lesion_Detection_in_CT_Images.pdf'
 citation: 'Hellmann, Fabio et al. “Deformable Dilated Faster R-CNN for Universal Lesion Detection in CT Images.” Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference vol. 2021 (2021): 2896-2902. doi:10.1109/EMBC46164.2021.9631021'
