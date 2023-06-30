@@ -39,20 +39,10 @@ Skills
   * German (native)
   * English (professional)
 * Hard
-  * Programming Languages
-    * Python
-    * Java
-    * C#
-    * C++
-    * Scala
-    * GO
-  * Frameworks
-    * PyTorch
-    * Tensorflow
-  * Tools
-    * Git
-  * Database
-    * SQL
+  * Programming Languages: Python, Java, C#, C++, Scala, GO
+  * Frameworks: PyTorch
+  * Tools: Git
+  * Database: SQL, NoSQL
 * Soft
   * Self-Discipline
   * Motivation
@@ -63,7 +53,7 @@ Skills
   * Criticism
   * Presentation Techniques
   * Analytical Skills
-  * Problem Solving Ability
+  * Problem-Solving Ability
 
 Publications
 ======
