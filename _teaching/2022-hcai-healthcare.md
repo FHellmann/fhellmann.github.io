@@ -1,10 +1,10 @@
 ---
-title: "Exercise Human-Centered Artificial Intelligence for Health Care Applications (Summer 2021)"
+title: "Exercise Human-Centered Artificial Intelligence for Health Care Applications (Summer 2022)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/hcai-health-care
 venue: "University of Augsburg, Chair for Human-Centered Artificial Intelligence"
-date: 2021-04-01
+date: 2022-04-01
 location: "Augsburg, GERMANY"
 ---
 
