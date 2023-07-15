@@ -39,8 +39,8 @@ for idx, item in enumerate(publications):
     pub_conference = bib['conference'] if 'conference' in bib else bib['journal']
     pub_url = item['pub_url']
     num_citations = item['num_citations']
-    md_filename = f"{pub_year}-01-01-{cites_id}.md"
-    html_filename = f"{pub_year}-01-01-{cites_id}"
+    md_filename = f"{pub_year}-10-01-{cites_id}.md"
+    html_filename = f"{pub_year}-10-01-{cites_id}"
 
     ## YAML variables
     md = f"---\ntitle: \"{pub_title}\"\n"
