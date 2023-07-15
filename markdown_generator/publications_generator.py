@@ -59,7 +59,7 @@ for idx, item in enumerate(publications):
     md += "collection: publications"
     md += f"\npermalink: /publication/{html_filename}"
     if len(str(pub_abstract)) > 5:
-        md += f"\nabstract: \"{'.'.join(html_escape(pub_abstract).split('.')[:4])} [...]\""
+        md += f"\nexcerpt: \"{'.'.join(html_escape(pub_abstract).split('.')[:4])} [...]\""
     md += f"\ndate: {pub_date}"
     md += f"\nvenue: '{html_escape(pub_conference)}'"
     if len(str(pub_url)) > 5:
