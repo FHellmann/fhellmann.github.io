@@ -35,12 +35,13 @@ for idx, item in enumerate(publications):
     print(f'{idx + 1}: {pub_title}')
     cites_id = item['cites_id'][0] if 'cites_id' in item else idx + 1
     pub_year = bib['pub_year']
+    pub_date = f'{pub_year}-01-01'
     pub_abstract = bib['abstract']
     pub_conference = bib['conference'] if 'conference' in bib else bib['journal']
     pub_url = item['pub_url']
     num_citations = item['num_citations']
-    md_filename = f"{pub_year}-10-01-{cites_id}.md"
-    html_filename = f"{pub_year}-10-01-{cites_id}"
+    md_filename = f"{pub_year}-{cites_id}.md"
+    html_filename = f"{pub_year}-{cites_id}"
 
     ## YAML variables
     md = f"---\ntitle: \"{pub_title}\"\n"
@@ -48,7 +49,7 @@ for idx, item in enumerate(publications):
     md += f"\npermalink: /publication/{html_filename}"
     if len(str(pub_abstract)) > 5:
         md += f"\nabstract: \"{html_escape(pub_abstract)}\""
-    md += f"\ndate: {pub_year}"
+    md += f"\ndate: {pub_date}"
     md += f"\nvenue: '{html_escape(pub_conference)}'"
     if len(str(pub_url)) > 5:
         md += f"\npaperurl: '{pub_url}'"
@@ -60,8 +61,8 @@ for idx, item in enumerate(publications):
         md += f"\n{html_escape(pub_abstract)}\n"
     if len(str(pub_url)) > 5:
         md += f"\n[Download paper here]({pub_url})\n"
-
     # md += "\nRecommended citation: " + item.citation
+
     md_filename = os.path.basename(md_filename)
     print(md)
     with open("../_publications/" + md_filename, 'w') as f:
