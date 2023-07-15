@@ -3,10 +3,12 @@ title: "Exercise Human-Centered Artificial Intelligence for Health Care Applicat
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/hcai-health-care
-institution: "University of Augsburg, Chair for Human-Centered Artificial Intelligence"
+venue: "University of Augsburg, Chair for Human-Centered Artificial Intelligence"
 date: 2022-04-01
 location: "Augsburg, GERMANY"
-excerpt: "Practical course for undergraduate Computer Science and Medical Computer Science students."
+excerpt: "Practical course for Computer Science and Medical Computer Science students."
 ---
 
 The course deals with the practical application of methods from the field of artificial intelligence for the development of health-related applications. As part of the event, the students will work in groups to develop a software application that supports end users and medical professionals in the areas of diagnosis, prevention or therapy. Current methods from the field of data collection, processing and evaluation as well as automatic signal analysis are used.
+
+The student projects are published [here](https://hcai.eu/healthcare/2022ss).
