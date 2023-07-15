@@ -18,7 +18,13 @@ html_escape_table = {
     "…": "...",
     "“": "''",
     "”": "''",
-    "é": "e",
+    "é": "&eacute;",
+    "Ü": "&Uuml;",
+    "ü": "&uuml;",
+    "Ö": "&Ouml;",
+    "ö": "&ouml;",
+    "Ä": "&Auml;",
+    "ä": "&auml;",
 }
 
 
@@ -53,12 +59,12 @@ for idx, item in enumerate(publications):
     md += "collection: publications"
     md += f"\npermalink: /publication/{html_filename}"
     if len(str(pub_abstract)) > 5:
-        md += f"\nabstract: \"{html_escape('.'.join(pub_abstract.split('.')[:4]))}\""
+        md += f"\nabstract: \"{'.'.join(html_escape(pub_abstract).split('.')[:4])} [...]\""
     md += f"\ndate: {pub_date}"
     md += f"\nvenue: '{html_escape(pub_conference)}'"
     if len(str(pub_url)) > 5:
         md += f"\npaperurl: '{pub_url}'"
-    md += f"\ncitation: '{citation}'"
+    md += f"\ncitation: '{html_escape(citation)}'"
     md += "\n---"
 
     ## Markdown description for individual page
@@ -66,7 +72,7 @@ for idx, item in enumerate(publications):
         md += f"\n{html_escape(pub_abstract)}\n"
     if len(str(pub_url)) > 5:
         md += f"\n[Download paper here]({pub_url})\n"
-    md += "\nRecommended citation: " + citation
+    md += "\nRecommended citation: " + html_escape(citation)
 
     md_filename = os.path.basename(md_filename)
     with open("../_publications/" + md_filename, 'w') as f:
