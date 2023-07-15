@@ -11,4 +11,4 @@ excerpt: "Practical course for Computer Science and Medical Computer Science stu
 
 The course deals with the practical application of methods from the field of artificial intelligence for the development of health-related applications. As part of the event, the students will work in groups to develop a software application that supports end users and medical professionals in the areas of diagnosis, prevention or therapy. Current methods from the field of data collection, processing and evaluation as well as automatic signal analysis are used.
 
-The student projects are published [here](https://hcai.eu/healthcare/2023ss).
+The student projects are published [here](https://hcai.eu/healthcare/category/student_projects/2023ss).
