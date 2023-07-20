@@ -70,9 +70,9 @@ for idx, item in enumerate(publications):
     ## Markdown description for individual page
     if len(str(pub_abstract)) > 5:
         md += f"\n{html_escape(pub_abstract)}\n"
-    if len(str(pub_url)) > 5:
-        md += f"\n[Download paper here]({pub_url})\n"
-    md += "\nRecommended citation: " + html_escape(citation)
+    # if len(str(pub_url)) > 5:
+    #     md += f"\n[Download paper here]({pub_url})\n"
+    # md += "\nRecommended citation: " + html_escape(citation)
 
     md_filename = os.path.basename(md_filename)
     with open("../_publications/" + md_filename, 'w') as f:
