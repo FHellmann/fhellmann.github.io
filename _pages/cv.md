@@ -12,11 +12,21 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Augsburg, 2026 (expected)
-* M.S. in Computer Science, University of Augsburg, 2020
-* B.S. in Computer Science, University of Applied Sciences Munich, 2017
+* M.S. in Computer Science, University of Augsburg, 2020 (grade: 1.8 ~ B)
+* B.S. in Computer Science, University of Applied Sciences Munich, 2017 (grade: 2.3 ~ B)
+* Technical college entrance qualification, Staatl. Fachober- und Berufsoberschule Technik, 2013 (grade: 2.5 ~ B)
+* Vocational Baccalaureata Diploma, Staatl. Berufsschule für Informationstechnik, 2012 (grade: 1.38 ~ A)
+* Secondary school leaving certificate, Städt. Carl-Spitzweg-Realschule, 2009 (grade: 2.25 ~ B)
 
 Work experience
 ======
+* Dez. 2020 - now: Research Assistant (Ph.D.)
+  * University of Augsburg, Augsburg, Germany
+
+* Apr. 2020 - Nov. 2020: Research Assistant Student
+  * University of Augsburg, Augsburg, Germany
+  * Duties included: Developing a hybrid solution with Bayesian Network and Deep Learning for facial action units (FACS) to pain level.  
+
 * Apr. 2017 - Jul. 2018: Working Student
   * Check24 Finanzservice GmbH, Munich, Germany
   * Duties included: Design software architecture for a microservice structure and full-stack development of Java applications in an agile software development environment.
@@ -40,7 +50,7 @@ Skills
   * English (professional)
 * Hard
   * Programming Languages: Python, Java, C#, C++, Scala, GO
-  * Frameworks: PyTorch
+  * Frameworks: PyTorch, Tensorflow
   * Tools: Git
   * Database: SQL, NoSQL
 * Soft
@@ -57,18 +67,29 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Voluntary Work
+======
+* Jul. 2021 – present: Swimming coach, SB Delphin
+* Aug. 2017: Lifeguard at the Baltic Sea, DLRG
+* Jul. 2016 – Aug. 2016: Lifeguard at the Baltic Sea, DLRG
+* Oct. 2014 – Feb. 2017: Member of the student council 07 at the University of Applied Sciences Munich
+* Jul. 2013 – Aug. 2013: Lifeguard at the Baltic Sea, DLRG
+* Jul. 2013 – present: Youth leader of the swimming department, FC Puchheim
+* Nov. 2011 – Jul. 2013: Assistant youth leader of the swimming department, FC Puchheim
+* Oct. 2010 – present: Swimming coach, FC Puchheim
