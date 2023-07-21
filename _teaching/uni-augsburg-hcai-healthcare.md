@@ -1,5 +1,5 @@
 ---
-title: "Exercise Human-Centered Artificial Intelligence for Health Care Applications"
+title: "Human-Centered Artificial Intelligence for Health Care Applications"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/hcai-health-care
