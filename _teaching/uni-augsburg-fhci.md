@@ -6,7 +6,7 @@ permalink: /teaching/fhci
 venue: "University of Augsburg, Chair for Human-Centered Artificial Intelligence"
 date: 2023-04-01
 location: "Augsburg, GERMANY"
-excerpt: "Practical course for Computer Science students."
+excerpt: "Lecture with exercises for students in Computer Science and related fields."
 ---
 
 This course focuses on "Foundations of Human-Computer Interaction".
