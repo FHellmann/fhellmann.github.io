@@ -43,7 +43,7 @@ for idx, item in enumerate(publications):
     authors = bib['author'].split(' and ')
     pub_date = f'{pub_year}-01-01'
     pub_abstract = bib['abstract']
-    pub_conference = bib['conference'] if 'conference' in bib else bib['journal']
+    pub_conference = bib['conference'] if 'conference' in bib else bib['journal'] if 'journal' in bib else 'PrePrint'
     pub_url = item['pub_url']
     publisher = f'{bib["publisher"]}, ' if "publisher" in bib else ""
     num_citations = item['num_citations']
