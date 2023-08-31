@@ -9,17 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer Science, University of Augsburg, 2026 (expected)
-* M.S. in Computer Science, University of Augsburg, 2020 (grade: 1.8 ~ B)
-* B.S. in Computer Science, University of Applied Sciences Munich, 2017 (grade: 2.3 ~ B)
-* Technical college entrance qualification, Staatl. Fachober- und Berufsoberschule Technik, 2013 (grade: 2.5 ~ B)
-* Vocational Baccalaureata Diploma, Staatl. Berufsschule für Informationstechnik, 2012 (grade: 1.38 ~ A)
-* Secondary school leaving certificate, Städt. Carl-Spitzweg-Realschule, 2009 (grade: 2.25 ~ B)
+## Education
+* Ph.D. in Medical Computer Science, University of Augsburg, 2026 (expected)
+* M.S. in Computer Science, University of Augsburg, 2020
+* B.S. in Computer Science, University of Applied Sciences Munich, 2017
+* Technical college entrance qualification, Staatl. Fachober- und Berufsoberschule Technik, 2013
+* Vocational Baccalaureata Diploma, Staatl. Berufsschule für Informationstechnik, 2012
+* Secondary school-leaving certificate, Städt. Carl-Spitzweg-Realschule, 2009
 
-Work experience
-======
+## Work experience
 * Dez. 2020 - now: Research Assistant (Ph.D.)
   * University of Augsburg, Augsburg, Germany
 
@@ -43,8 +41,7 @@ Work experience
   * Retarus GmbH, Munich, Germany
   * Duties included: Development of Java backend applications to improve the workflow by optimization and automation of departments.
 
-Skills
-======
+## Skills
 * Languages
   * German (native)
   * English (professional)
@@ -65,26 +62,22 @@ Skills
   * Analytical Skills
   * Problem-Solving Ability
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Voluntary Work
-======
+## Voluntary Work
 * Jul. 2021 – present: Swimming coach, SB Delphin
 * Aug. 2017: Lifeguard at the Baltic Sea, DLRG
 * Jul. 2016 – Aug. 2016: Lifeguard at the Baltic Sea, DLRG
