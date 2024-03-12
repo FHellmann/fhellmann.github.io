@@ -6,6 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (fhellmann.github.io)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="3DMeshEditor" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

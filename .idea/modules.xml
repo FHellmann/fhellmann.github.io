@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3DMeshEditor/.idea/3DMeshEditor.iml" filepath="$PROJECT_DIR$/../3DMeshEditor/.idea/3DMeshEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fhellmann.github.io.iml" filepath="$PROJECT_DIR$/.idea/fhellmann.github.io.iml" />
     </modules>
   </component>
