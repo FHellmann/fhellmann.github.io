@@ -75,5 +75,5 @@ for idx, item in enumerate(publications):
     # md += "\nRecommended citation: " + html_escape(citation)
 
     md_filename = os.path.basename(md_filename)
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("../_publications/" + md_filename, 'w', encoding='utf-8') as f:
         f.write(md)
