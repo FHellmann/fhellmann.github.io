@@ -18,7 +18,7 @@ redirect_from:
 * Secondary school-leaving certificate, Städt. Carl-Spitzweg-Realschule, 2009
 
 ## Work experience
-* Dez. 2020 - now: Research Assistant (Ph.D.)
+* Dez. 2020 - now: Research Assistant
   * University of Augsburg, Augsburg, Germany
 
 * Apr. 2020 - Nov. 2020: Research Assistant Student
