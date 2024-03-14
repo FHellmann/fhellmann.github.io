@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D. in Medical Computer Science, University of Augsburg, 2026 (expected)
+* Dr. rer. nat. in Computer Science, University of Augsburg, 2026 (expected)
 * M.S. in Computer Science, University of Augsburg, 2020
 * B.S. in Computer Science, University of Applied Sciences Munich, 2017
 * Technical college entrance qualification, Staatl. Fachober- und Berufsoberschule Technik, 2013
