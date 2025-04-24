@@ -81,7 +81,7 @@ redirect_from:
 * Jul. 2013 - present: Youth leader of the swimming department, FC Puchheim
 * Oct. 2010 - present: Swimming coach, FC Puchheim
 * Oct. 2024 - present: Company First Aider, University of Augsburg
-* Jul. 2022 - present: Computer Science Teacher for Workshops/Lectures for Schools, University of Augsburg
+* Jul. 2022 - present: AI Lecturer for Schools, University of Augsburg
 * Nov. 2021 - present: Girls' Day Event Coordinator for the Computer Science Faculty, University of Augsburg
 * Jul. 2021 - May 2025: Swimming coach, SB Delphin
 * Nov. 2019 - Aug. 2020: Active Member (Datamanager), ESN Augsburg

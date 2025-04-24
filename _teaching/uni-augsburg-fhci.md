@@ -11,14 +11,40 @@ excerpt: "Lecture with exercises for students in Computer Science and related fi
 
 This course focuses on "Foundations of Human-Computer Interaction".
 
-Content of the course:
-* Interaction forms and metaphors
-* recognition and interpretation of user input
-* generation and synchronization of system outputs
-* multimodal dialog systems
-* user and discourse modeling
-* agent-based multimodal interaction
-* evaluation of multimodal user interfaces
-* next-generation user interfaces (perceptual interfaces, emotional interfaces, human-robot interaction, etc.)
+The course content:
+* Human Basics
+  * Introduction to Human Perception
+  * Cognition and Motorik
+  * Mental Model and Errors
+* Machine Basics
+  * Interaction-styles and Basics for UI-Design
+* Modalities
+  * Visual Modality
+  * Haptic Modality
+  * Audio Modality
+  * Physiological Modality
+  * Speach Modality
+  * VR & AR Modality
+  * Multimodality & Ubiquitous Computing
+* User-Centered-Design Process
+  * Introduction to UCD Process
+  * UCD & Personas
+  * Prototyping
+  * Evaluation
+  * Hands-On UCD
+* AI in Human-Computer-Interaction
+  * Artificial Intelligence
+  * Generative Artificial Intelligence
+  * Virtual Characters
+  * Conversational Artificial Intelligence & Prompt Engineering
+  * Ethics & Artificial Intelligence
 
-My contribution to the course has been giving the lecture on "Gesture Recognition" and correct the exam exercise about this topic.
+My contribution to the course:
+* Revising the whole course structure in cooperation with colleagues.
+* Creating the new course content for:
+  * Interaction-styles and Basics for UI-Design
+  * Visual Modality
+  * Haptic Modality
+  * Physiological Modality
+  * Prototyping
+* Revising the existing contents and updating it into the new lecture format.
