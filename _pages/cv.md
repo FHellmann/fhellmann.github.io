@@ -78,11 +78,15 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Voluntary Work
-* Jul. 2021 – present: Swimming coach, SB Delphin
+* Jul. 2013 - present: Youth leader of the swimming department, FC Puchheim
+* Oct. 2010 - present: Swimming coach, FC Puchheim
+* Oct. 2024 - present: Company First Aider, University of Augsburg
+* Jul. 2022 - present: Computer Science Teacher for Workshops/Lectures for Schools, University of Augsburg
+* Nov. 2021 - present: Girls' Day Event Coordinator for the Computer Science Faculty, University of Augsburg
+* Jul. 2021 - May 2025: Swimming coach, SB Delphin
+* Nov. 2019 - Aug. 2020: Active Member (Datamanager), ESN Augsburg
 * Aug. 2017: Lifeguard at the Baltic Sea, DLRG
-* Jul. 2016 – Aug. 2016: Lifeguard at the Baltic Sea, DLRG
-* Oct. 2014 – Feb. 2017: Member of the student council 07 at the University of Applied Sciences Munich
-* Jul. 2013 – Aug. 2013: Lifeguard at the Baltic Sea, DLRG
-* Jul. 2013 – present: Youth leader of the swimming department, FC Puchheim
-* Nov. 2011 – Jul. 2013: Assistant youth leader of the swimming department, FC Puchheim
-* Oct. 2010 – present: Swimming coach, FC Puchheim
+* Jul. 2016 - Aug. 2016: Lifeguard at the Baltic Sea, DLRG
+* Oct. 2014 - Feb. 2017: Member of the student council 07, University of Applied Sciences Munich
+* Jul. 2013 - Aug. 2013: Lifeguard at the Baltic Sea, DLRG
+* Nov. 2011 - Jul. 2013: Assistant youth leader of the swimming department, FC Puchheim

@@ -1,7 +1,7 @@
 ---
 title: "NFB-03. Neurological manifestations in children and adolescents with Neurofibromatosis type 1-Implications for management and surveillance"
 collection: publications
-permalink: /publication/2022-12
+permalink: /publication/2022-NNmicaawNt1fmas
 excerpt: " INTRODUCTION: We aimed to (1) characterize the spectrum of clinical phenotypes of NF1 in a random pediatric population, (2) correlate genotype with phenotypic expression for those with a genetic diagnosis, and (3) explore radiological features of NF1 in the central nervous system (CNS) by radiomics analyses to predict clinical course. METHODS: We performed a database search in the hospital information system of the University Children's Hospital between January 2017 and December 2020 for patients with NF1 and evaluated the clinical phenotype by retrospective chart review. RESULTS: 75 children/adolescents were identified with suspicion/clinical diagnosis of NF1 (median age 10.0 years (range, 1 [...]"
 date: 2022-01-01
 venue: 'Neuro-Oncology'

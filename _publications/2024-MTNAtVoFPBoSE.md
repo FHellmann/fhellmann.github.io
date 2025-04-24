@@ -1,7 +1,7 @@
 ---
 title: "More Than Noise: Assessing the Viscosity of Food Products Based on Sound Emission"
 collection: publications
-permalink: /publication/2024-10
+permalink: /publication/2024-MTNAtVoFPBoSE
 excerpt: "In the era of Industry 4.0, manufacturing is rapidly shifting towards automation, particularly in processes such as quality control, production lines, and logistics. However, the food industry poses distinctive challenges to automation due to the variability in raw materials and stringent hygiene standards. Sensory analysis is crucial in maintaining consistent quality and safety while manufacturing food products [...]"
 date: 2024-01-01
 venue: 'PrePrint'

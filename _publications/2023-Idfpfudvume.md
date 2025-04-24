@@ -1,7 +1,7 @@
 ---
 title: "Improving deep facial phenotyping for ultra-rare disorder verification using model ensembles"
 collection: publications
-permalink: /publication/2023-13773664767143044663
+permalink: /publication/2023-Idfpfudvume
 excerpt: "Rare genetic disorders affect more than 6% of the global population. Reaching a diagnosis is challenging because rare disorders are very diverse. Many disorders have recognizable facial features that are hints for clinicians to diagnose patients. Previous work, such as GestaltMatcher, utilized representation vectors produced by a DCNN similar to AlexNet to match patients in high-dimensional feature space to support&quot; unseen&quot; ultra-rare disorders [...]"
 date: 2023-01-01
 venue: 'Proceedings of the IEEE/CVF winter conference on applications of computer vision'

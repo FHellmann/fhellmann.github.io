@@ -1,7 +1,7 @@
 ---
 title: "Towards automated COVID-19 presence and severity classification"
 collection: publications
-permalink: /publication/2023-1192330016966097164
+permalink: /publication/2023-TaCpasc
 excerpt: "COVID-19 presence classification and severity prediction via (3D) thorax computed tomography scans have become important tasks in recent times. Especially for capacity planning of intensive care units, predicting the future severity of a COVID-19 patient is crucial. The presented approach follows state-of-theart techniques to aid medical professionals in these situations. It comprises an ensemble learning strategy via 5-fold cross-validation that includes transfer learning and combines pre-trained 3D-versions of ResNet34 and DenseNet121 for COVID19 classification and severity prediction respectively [...]"
 date: 2023-01-01
 venue: 'PrePrint'

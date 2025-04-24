@@ -42,17 +42,18 @@ for idx, item in enumerate(publications):
     pub_year = bib['pub_year']
     authors = bib['author'].split(' and ')
     pub_date = f'{pub_year}-01-01'
-    pub_abstract = bib['abstract']
+    pub_abstract = bib['abstract'] if 'abstract' in bib else ""
     pub_conference = bib['conference'] if 'conference' in bib else bib['journal'] if 'journal' in bib else 'PrePrint'
-    pub_url = item['pub_url']
+    pub_url = item['pub_url'] if 'pub_url' in item else ""
     publisher = f'{bib["publisher"]}, ' if "publisher" in bib else ""
     num_citations = item['num_citations']
     first_author_firstname = authors[0].split(' ')[0]
     first_author_lastname = authors[0].split(' ')[-1]
     citation = f'{first_author_lastname}, {first_author_firstname} et al. "{pub_title}." {pub_conference}. {publisher}{pub_year}'
     print(citation)
-    md_filename = f"{pub_year}-{cites_id}.md"
-    html_filename = f"{pub_year}-{cites_id}"
+    unique_id = "".join([l[0] for l in pub_title.split(' ')])
+    md_filename = f"{pub_year}-{unique_id}.md"
+    html_filename = f"{pub_year}-{unique_id}"
 
     ## YAML variables
     md = f"---\ntitle: \"{pub_title}\"\n"
