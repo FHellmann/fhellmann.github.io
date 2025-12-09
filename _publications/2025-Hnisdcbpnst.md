@@ -1,0 +1,11 @@
+---
+title: "Hybrid neurofibroma/schwannoma in schwannomatosis—a diagnostically challenging benign peripheral nerve sheath tumour"
+collection: publications
+permalink: /publication/2025-Hnisdcbpnst
+excerpt: "Hybrid neurofibroma/schwannoma tumors (HNS) represent a still underrecognized, yet clinically and diagnostically significant entity within the spectrum of schwannomatosis (SWN). While classical schwannomas have been well known for decades, HNS have only recently been described as a distinct histological pattern, composed of intermixed features typical of both schwannomas and neurofibromas. Differentiating HNS from pure neurofibroma (Nf) is critical, as misclassification may lead to an incorrect diagnosis of neurofibromatosis type 1 rather than SWN. The distinction of hybrid tumors (more precisely HNS) is especially important in SWN forms outside the neurofibromatosis type 2 (NF2) spectrum (NF2-SWN), where major diagnostic criteria are less well defined, making histological differentiation even more significant [...]"
+date: 2025-01-01
+venue: 'PrePrint'
+paperurl: 'https://link.springer.com/article/10.1007/s10689-025-00505-4'
+citation: 'Tippner, Daniel et al. &quot;Hybrid neurofibroma/schwannoma in schwannomatosis—a diagnostically challenging benign peripheral nerve sheath tumour.&quot; PrePrint. Springer Netherlands, 2025'
+---
+Hybrid neurofibroma/schwannoma tumors (HNS) represent a still underrecognized, yet clinically and diagnostically significant entity within the spectrum of schwannomatosis (SWN). While classical schwannomas have been well known for decades, HNS have only recently been described as a distinct histological pattern, composed of intermixed features typical of both schwannomas and neurofibromas. Differentiating HNS from pure neurofibroma (Nf) is critical, as misclassification may lead to an incorrect diagnosis of neurofibromatosis type 1 rather than SWN. The distinction of hybrid tumors (more precisely HNS) is especially important in SWN forms outside the neurofibromatosis type 2 (NF2) spectrum (NF2-SWN), where major diagnostic criteria are less well defined, making histological differentiation even more significant. At the molecular level, HNS frequently show alterations in the genes NF2, LZTR1, and ...

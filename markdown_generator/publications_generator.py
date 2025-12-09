@@ -1,11 +1,11 @@
 import os
 
+import tqdm
 from scholarly import scholarly
 
 # Retrieve the author's data, fill-in, and print
 # Get an iterator for the author results
-search_query = scholarly.search_author('Fabio Hellmann')
-my_profile = list(filter(lambda author: author['scholar_id'] == '-WjvWTkAAAAJ', search_query))[0]
+my_profile = scholarly.search_author_id('-WjvWTkAAAAJ')
 my_profile = scholarly.fill(my_profile)
 # Take a closer look at the first publication
 publications = [scholarly.fill(publication) for publication in my_profile['publications']]
@@ -33,9 +33,8 @@ def html_escape(text):
     return "".join(html_escape_table.get(c, c) for c in text)
 
 
-for idx, item in enumerate(publications):
+for idx, item in tqdm.tqdm(enumerate(publications), desc='Creating publication markdowns', total=len(publications)):
     bib = item['bib']
-    print(bib.keys())
     pub_title = bib['title']
     print(f'{idx + 1}: {pub_title}')
     cites_id = item['cites_id'][0] if 'cites_id' in item else idx + 1
@@ -50,7 +49,7 @@ for idx, item in enumerate(publications):
     first_author_firstname = authors[0].split(' ')[0]
     first_author_lastname = authors[0].split(' ')[-1]
     citation = f'{first_author_lastname}, {first_author_firstname} et al. "{pub_title}." {pub_conference}. {publisher}{pub_year}'
-    print(citation)
+    # print(citation)
     unique_id = "".join([l[0] for l in pub_title.split(' ')])
     md_filename = f"{pub_year}-{unique_id}.md"
     html_filename = f"{pub_year}-{unique_id}"
